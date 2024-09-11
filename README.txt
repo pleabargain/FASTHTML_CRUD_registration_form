@@ -37,3 +37,6 @@ Note: This is a basic implementation and does not include advanced features such
 
 # about
 I wrote this with the help of a LLM and it is a very simple example. Cursor IDE made it super easy to write this reeadme I told it what I wanted and it wrote it for me. I wrote the code using Claude projects.
+
+# URL
+https://github.com/pleabargain/FASTHTML_CRUD_registration_form
